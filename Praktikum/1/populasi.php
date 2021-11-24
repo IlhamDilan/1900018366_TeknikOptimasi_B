@@ -47,7 +47,7 @@ class populationgenerator{
 }
 
 $parameter = [
-    'file_name' => 'D:\Laragon\www\Tesi\Latihan\1\produk.txt',
+    'file_name' => 'D:\Laragon\www\Tesi\Praktikum\1\produk.txt',
     'columns' => ['item', 'price'],
     'population' => 10
 ];

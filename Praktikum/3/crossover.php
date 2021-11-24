@@ -1,7 +1,7 @@
 <?php
 
 class parameters{
-    const file_name = 'D:\Laragon\www\Tesi\Latihan\1\produk.txt';
+    const file_name = 'D:\Laragon\www\Tesi\Praktikum\1\produk.txt';
     const columns = ['item', 'price'];
     const population = 10;
     const budget = 280000;
